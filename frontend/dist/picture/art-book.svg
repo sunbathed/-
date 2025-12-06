@@ -1,0 +1,14 @@
+<svg width="400" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fdf2f8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fce7f3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <circle cx="100" cy="100" r="60" fill="#fbcfe8" opacity="0.5"/>
+  <circle cx="300" cy="200" r="80" fill="#f9a8d4" opacity="0.5"/>
+  <rect x="50" y="350" width="100" height="100" fill="#f472b6" opacity="0.5" transform="rotate(15)"/>
+  <text x="200" y="300" font-family="sans-serif" font-size="56" font-weight="bold" fill="#be185d" text-anchor="middle">ART</text>
+  <text x="200" y="350" font-family="sans-serif" font-size="24" fill="#db2777" text-anchor="middle">Design & Creativity</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="400" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f766e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#115e59;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="40" y="100" font-family="Times New Roman, serif" font-size="140" fill="#fff" opacity="0.1">∫</text>
+  <text x="300" y="500" font-family="Times New Roman, serif" font-size="140" fill="#fff" opacity="0.1">∑</text>
+  <rect x="60" y="200" width="280" height="200" stroke="#fff" stroke-width="4" fill="none"/>
+  <text x="200" y="280" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#fff" text-anchor="middle">数学分析</text>
+  <text x="200" y="340" font-family="Arial, sans-serif" font-size="24" fill="#ccfbf1" text-anchor="middle">Mathematical Analysis</text>
+  <text x="200" y="550" font-family="Arial, sans-serif" font-size="18" fill="#99f6e4" text-anchor="middle">高等教育出版社</text>
+</svg>

@@ -1,0 +1,4 @@
+USE second_hand_book;
+ALTER TABLE books MODIFY title VARCHAR(255);
+ALTER TABLE books MODIFY author VARCHAR(255);
+ALTER TABLE books MODIFY cover VARCHAR(500);
